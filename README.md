@@ -13,13 +13,13 @@ const app = express();
 
 To run server:
 ```
-node server.js
+node calculator.js
 ```
 
 For development use nodemon for automatically restarting the node application when file changes in the directory are detected
 https://nodemon.io/
 ```
-nodemon server.js
+nodemon calculator.js
 ```
 
 
